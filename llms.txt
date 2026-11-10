@@ -24,6 +24,9 @@
 - [Trusted Plumber Austin Homeowners Can Call](https://local-business-guides.github.io/taylor-brothers-plumbing-and-hvac-austin/trusted-plumber-austin/): Searching for a Trusted Plumber Austin homeowners can call? Get practical guidance on plumbing work in Austin, Texas. Call Taylor Brothers Plumbing & HVAC tod
 - [Experienced Plumber Austin Residents Can Consult](https://local-business-guides.github.io/taylor-brothers-plumbing-and-hvac-austin/experienced-plumber-austin/): Need an Experienced Plumber Austin homeowners can consult? Get help with plumbing repairs, installs, and upgrades in Austin. Call Taylor Brothers Plumbing & H
 
+## Newsroom
+- [Taylor Brothers Plumbing & HVAC Shares Austin Plumber Guide and Companion Media](https://local-business-guides.github.io/taylor-brothers-plumbing-and-hvac-austin/news/2026-11-10-taylor-brothers-plumbing-hvac-shares-austin/): Taylor Brothers Plumbing & HVAC released an Austin Plumber guide this week, with a YouTube video, a podcast episode and a SoundCloud audio version. (2026-11-10)
+
 ## Pages
 - [Austin Plumber in Texas](https://local-business-guides.github.io/taylor-brothers-plumbing-and-hvac-austin/): Get plumbing and HVAC service for your Austin home or business from a local team ready to help. Call +1512-883-6900.
 - [About Taylor Brothers Plumbing & HVAC](https://local-business-guides.github.io/taylor-brothers-plumbing-and-hvac-austin/about/): About Taylor Brothers Plumbing & HVAC, Austin.
@@ -31,4 +34,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/taylor-brothers-plumbing-and-hvac-austin/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/taylor-brothers-plumbing-and-hvac-austin/news/rss.xml)
 - [Main resource site](https://taylor-brothers-austin-plumbing.localbusinesses1.chatgpt.site)
